@@ -1,2 +1,2 @@
-# Phishing-Email
+# Phishing-mail
 phishing-email-analysis
